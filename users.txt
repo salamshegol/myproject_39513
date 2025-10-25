@@ -1,1 +1,1 @@
-{"1": {"tg_id": 5734928133, "roblox_username": "/start", "valid_key": true, "banned": false}, "2": {"tg_id": 8106152978, "roblox_username": "huilo", "valid_key": true, "banned": false}}
+{"1": {"tg_id": 5734928133, "roblox_username": "Nigga", "valid_key": true, "banned": false}, "2": {"tg_id": 8106152978, "roblox_username": "huilo", "valid_key": true, "banned": false}}
