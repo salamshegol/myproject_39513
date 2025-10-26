@@ -1,1 +1,1 @@
-{"1": {"tg_id": 5734928133, "roblox_username": "mrfiii12", "banned": false}}
+{"1": {"tg_id": 5734928133, "roblox_username": "mrfiii12", "banned": false, "is_subscribed": true}}
