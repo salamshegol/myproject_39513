@@ -1,1 +1,0 @@
-{"1": {"tg_id": 5734928133, "roblox_username": "fridaymorning1337", "banned": false, "is_subscribed": true}, "3": {"tg_id": 1553172844, "roblox_username": "sinxueni", "banned": false, "is_subscribed": true}, "4": {"tg_id": 7438772971, "roblox_username": "real_goodman52", "banned": false, "is_subscribed": false}}
