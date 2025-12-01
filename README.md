@@ -1,4 +1,4 @@
-# https://t.me/spherecc
+# https://t.me/flow_su
 
 alah.firebullet()
 mechet.bombexsplosion()
